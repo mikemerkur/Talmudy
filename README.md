@@ -2,7 +2,6 @@
 Talmudy: A Search Engine for the Talmud
 
 Background:
-Talmudy is a search engine for the Talmud. 
 We like to playfully think of it as a “Google for the Talmud.” 
 The Talmud is an expansive work, spanning complete Jewish law and customs. 
 Even though it is an ancient text, it is central to Jewish religious life today 
