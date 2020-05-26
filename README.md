@@ -63,6 +63,7 @@ but none have reached online success.
 Talmudy's appearance is minimal and not complicated like other programs on the market. 
 The screen and design is uncluttered and only provides 
 the relevant information in an easy-to-view experience.
+
 We anticipate Talmudy becoming a success because of its aforementioned simplicity. 
 Talmudy is meant for those needing quick access to the Talmud and its specific sources. 
 It is meant for those who are short on time 
@@ -70,6 +71,7 @@ and do not have the luxury of pulling out books from a large library.
 It is meant for those who work long hours 
 and need to quickly prepare for their one-hour study session in the evening. 
 It is meant for teachers and lecturers who need to access a passage quickly before their 8:30 am class.
+
 In our information-centric world, Talmudy is what every studier of the Talmud needs. 
 With its streamlined, uncluttered look and replication of the tools other popular search engines use, 
 it will be a success for all those demanding quick access to the Talmud. 
